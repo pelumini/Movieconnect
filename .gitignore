@@ -10,9 +10,9 @@
 *.userosscache
 *.sln.docstates
 
-appsettings.json
-appsettings.Development.json
-appsettings.Production.json
+MovieConnect.Website/appsettings.json
+MovieConnect.Website/appsettings.Development.json
+MovieConnect.Website/appsettings.Production.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
