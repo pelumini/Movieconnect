@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace MovieConnect.Tests
 {
-    public class Tests
+    public class TestControllers
     {
         [SetUp]
         public void Setup()
