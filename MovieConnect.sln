@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieConnect.Website", "MovieConnect.Website\MovieConnect.Website.csproj", "{7A6CC8FA-8EEC-40F7-BD49-E370E0060090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieConnect.Website", "MovieConnect.Website\MovieConnect.Website.csproj", "{7A6CC8FA-8EEC-40F7-BD49-E370E0060090}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieConnect.Tests", "MovieConnect.Tests\MovieConnect.Tests.csproj", "{BC532114-17DB-42DD-9A1D-27A0BEC3C54C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieConnect.Tests", "MovieConnect.Tests\MovieConnect.Tests.csproj", "{824D1CDC-C0C7-44D8-AA8F-BF4DC44605E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7A6CC8FA-8EEC-40F7-BD49-E370E0060090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A6CC8FA-8EEC-40F7-BD49-E370E0060090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A6CC8FA-8EEC-40F7-BD49-E370E0060090}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC532114-17DB-42DD-9A1D-27A0BEC3C54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC532114-17DB-42DD-9A1D-27A0BEC3C54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC532114-17DB-42DD-9A1D-27A0BEC3C54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC532114-17DB-42DD-9A1D-27A0BEC3C54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824D1CDC-C0C7-44D8-AA8F-BF4DC44605E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824D1CDC-C0C7-44D8-AA8F-BF4DC44605E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824D1CDC-C0C7-44D8-AA8F-BF4DC44605E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824D1CDC-C0C7-44D8-AA8F-BF4DC44605E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
